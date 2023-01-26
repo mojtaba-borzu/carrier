@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-ExtraBold.woff2') format('woff2'),
+        url('YekanBakhFaNum-ExtraBold.woff') format('woff'),
+        url('YekanBakhFaNum-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-Bold.woff2') format('woff2'),
+        url('YekanBakhFaNum-Bold.woff') format('woff'),
+        url('YekanBakhFaNum-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-Light.woff2') format('woff2'),
+        url('YekanBakhFaNum-Light.woff') format('woff'),
+        url('YekanBakhFaNum-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-Black.woff2') format('woff2'),
+        url('YekanBakhFaNum-Black.woff') format('woff'),
+        url('YekanBakhFaNum-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum ExtraBlack';
+    src: url('YekanBakhFaNum-ExtraBlack.woff2') format('woff2'),
+        url('YekanBakhFaNum-ExtraBlack.woff') format('woff'),
+        url('YekanBakhFaNum-ExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-SemiBold.woff2') format('woff2'),
+        url('YekanBakhFaNum-SemiBold.woff') format('woff'),
+        url('YekanBakhFaNum-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-Thin.woff2') format('woff2'),
+        url('YekanBakhFaNum-Thin.woff') format('woff'),
+        url('YekanBakhFaNum-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhFaNum';
+    src: url('YekanBakhFaNum-Regular.woff2') format('woff2'),
+        url('YekanBakhFaNum-Regular.woff') format('woff'),
+        url('YekanBakhFaNum-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-ExtraBold.woff2') format('woff2'),
+        url('YekanBakhNoEn-ExtraBold.woff') format('woff'),
+        url('YekanBakhNoEn-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn ExtraBlack';
+    src: url('YekanBakhNoEn-ExtraBlack.woff2') format('woff2'),
+        url('YekanBakhNoEn-ExtraBlack.woff') format('woff'),
+        url('YekanBakhNoEn-ExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-Bold.woff2') format('woff2'),
+        url('YekanBakhNoEn-Bold.woff') format('woff'),
+        url('YekanBakhNoEn-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-Black.woff2') format('woff2'),
+        url('YekanBakhNoEn-Black.woff') format('woff'),
+        url('YekanBakhNoEn-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-Thin.woff2') format('woff2'),
+        url('YekanBakhNoEn-Thin.woff') format('woff'),
+        url('YekanBakhNoEn-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-Light.woff2') format('woff2'),
+        url('YekanBakhNoEn-Light.woff') format('woff'),
+        url('YekanBakhNoEn-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-SemiBold.woff2') format('woff2'),
+        url('YekanBakhNoEn-SemiBold.woff') format('woff'),
+        url('YekanBakhNoEn-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'YekanBakhoEn';
+    src: url('YekanBakhNoEn-Regular.woff2') format('woff2'),
+        url('YekanBakhNoEn-Regular.woff') format('woff'),
+        url('YekanBakhNoEn-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

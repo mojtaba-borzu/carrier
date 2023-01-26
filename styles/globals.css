@@ -1,0 +1,23 @@
+@import '../public/FontYekan/stylesheet.css';
+@import 'react-toastify/dist/ReactToastify.css';
+/* @import url('https://static.neshan.org/sdk/leaflet/1.4.0/leaflet.css'); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'YekanBakhFaNum' !important;
+}
+.react-code-input input {
+  font-family: 'YekanBakhFaNum' !important;
+}
+
+.Toastify__toast-body {
+  font-family: YekanBakhFaNum !important;
+  font-weight: 600;
+  text-align: center;
+  direction: rtl;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}

@@ -1,0 +1,7 @@
+./dist
+./out
+./build
+./next
+/node_modules
+/public
+tsconfig.tsbuildinfo
